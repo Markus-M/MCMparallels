@@ -1,0 +1,7 @@
+set(SOURCES
+   ${SOURCES}
+   ${CMAKE_CURRENT_SOURCE_DIR}/Task.cc
+   ${CMAKE_CURRENT_SOURCE_DIR}/TaskManager.cc
+   ${CMAKE_CURRENT_SOURCE_DIR}/TaskQueue.cc
+   PARENT_SCOPE
+)

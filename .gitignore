@@ -1,0 +1,9 @@
+*.o
+*.txt~
+out
+bin
+*.cc~
+*.h~
+CMakeCache.*
+CMakeFiles
+.gitignore~
